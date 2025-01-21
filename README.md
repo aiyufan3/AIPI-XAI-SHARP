@@ -1,4 +1,4 @@
-# XAI Interpretation with SHAP
+# Interpretation with SHAP
 ### Author: Yufan Ai
 
 This repository contains the code and resources for the first assignment in AIPI 590, focusing on Explainable AI (XAI) using SHAP (Shapley Additive Explanations). The goal of this assignment is to demonstrate the use of SHAP for interpreting the predictions of a machine learning model, specifically XGBoost, trained on the California Housing Dataset.
